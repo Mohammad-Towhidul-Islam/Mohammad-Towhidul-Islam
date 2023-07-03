@@ -3,7 +3,6 @@
 ### Hi there 👋, I'am Mohammad Towhidul Islam
 
 ✔ Bachelor in Science in Computer Science and Engineering, American International University - Bangladesh.
-✔ Completed O-levels and A-levels from himali boarding school, India.
 ✔ Bangladeshi citizen.
 ✔ Love to solve problems.
 ✔ Favourite language is java.
