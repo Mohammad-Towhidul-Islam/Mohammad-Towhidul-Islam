@@ -1,16 +1,19 @@
-### Hi there 👋
+![](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/274889555_394927535727811_5139152213411984094_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_eui2=AeG7jIF2G_lwSFxzypjDZEwYAhcjSDXewDUCFyNINd7ANUEUgJxANTOmz5djwqTP5OIo0xsLXHe0Ao8CR9-RCBNy&_nc_ohc=cW9AsE_9A1QAX9KNZPi&_nc_oc=AQlUQk-XQAqtZJTlEnxYp77unv0ENL2lD_blS791SGTPXRz8SKAVwgKBzZRJ_8UPNSE&_nc_ht=scontent.fdac99-1.fna&oh=00_AfAjQHTRmd_mGsz1QTgEpRcrsp08qZU11UpgyAwWFoVKVQ&oe=64A6CD7D)
 
-<!--
-**Mohammad-Towhidul-Islam/Mohammad-Towhidul-Islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'am Mohammad Towhidul Islam
 
-Here are some ideas to get you started:
+✔ Bachelor in Science in Computer Science and Engineering, American International University - Bangladesh.
+✔ Completed O-levels and A-levels from himali boarding school, India.
+✔ Bangladeshi citizen.
+✔ Love to solve problems.
+✔ Favourite language is java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: C++/Java/C
+
+- 🌱 I’m currently learning PSP 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about Web Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Towhidul Islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Towhidul Islam)  
+
