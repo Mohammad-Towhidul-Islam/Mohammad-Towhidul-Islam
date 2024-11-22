@@ -2,11 +2,11 @@
 
 # Hi there 👋, I'am Mohammad Towhidul Islam
 
-✔ Bachelor in Science in Computer Science and Engineering, American International University - Bangladesh. ✔ Bangladeshi citizen. ✔ Love to solve problems. ✔ Favourite language is java.
+✔ Bachelor in Science in Computer Science and Engineering, American International University - Bangladesh. ✔ Bangladeshi citizen. ✔ Love to solve problems. ✔.
 
-Skills: C++/JAVA/C#
+Skills: HTML/CSS/JS Design:UI/UX[FIGMA]
 
-- 🌱 I’m currently learning HTML 
+- 🌱 I’m currently learning PHP
 - 👯 I’m looking to collaborate on GitHub 
 
 
